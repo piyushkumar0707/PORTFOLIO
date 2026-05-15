@@ -1,7 +1,7 @@
 const stats = [
   { val: '#32', sub: '/ 3,414', label: 'GSSoC Global Rank', badge: 'Top 1%', color: 'from-yellow-400 to-amber-500', glowRaw: 'rgba(250,204,21,0.18)' },
   { val: '48+', sub: 'merged', label: 'Pull Requests', badge: '10+ repos', color: 'from-brand-purple to-brand-pink', glowRaw: 'rgba(123,47,247,0.18)' },
-  { val: '499+', sub: 'problems', label: 'DSA Solved', badge: 'LeetCode + GfG', color: 'from-brand-cyan to-blue-500', glowRaw: 'rgba(0,242,254,0.18)' },
+  { val: '500+', sub: 'problems', label: 'DSA Solved', badge: 'LeetCode + GfG', color: 'from-brand-cyan to-blue-500', glowRaw: 'rgba(0,242,254,0.18)' },
   { val: '8.14', sub: '/ 10', label: 'CGPA', badge: 'MITS Gwalior', color: 'from-emerald-400 to-cyan-500', glowRaw: 'rgba(52,211,153,0.18)' },
   { val: '5K+', sub: 'lines', label: 'Code Contributed', badge: 'Open Source', color: 'from-violet-400 to-purple-600', glowRaw: 'rgba(139,92,246,0.18)' },
   { val: '98.55', sub: '%ile', label: 'Naukri Young Turks', badge: '500K+ participants', color: 'from-pink-400 to-rose-500', glowRaw: 'rgba(244,114,182,0.18)' },

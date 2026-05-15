@@ -8,10 +8,9 @@ const experiences = [
     glowColor: 'rgba(0,242,254,0.15)',
     dotGlow: 'shadow-brand-cyan/50',
     bullets: [
-      <>Maintained backend evaluation pipelines handling <strong className="text-brand-cyan font-semibold">10,000+</strong> daily user interactions, improving throughput under load.</>,
-      <>Engineered structured API validation and benchmarking workflows; slashed regression detection time by <strong className="text-brand-cyan font-semibold">30%</strong>.</>,
-      <>Ran A/B tests across model response pipelines; improved response consistency and system reliability scores.</>,
-      <>Worked on SFT &amp; RLHF alignment workflows for LLMs focusing on human preference data and bias mitigation.</>,
+      <>Evaluated LLM responses on curated problem sets sourced from internal platforms, handling <strong className="text-brand-cyan font-semibold">10,000+</strong> daily interactions.</>,
+      <>Designed structured prompt–response evaluation workflows, identifying incorrect outputs and documenting failure cases with detailed reasoning.</>,
+      <>Performed error analysis and provided corrective feedback, highlighting model reasoning gaps and suggesting improved responses.</>,
     ],
     skills: ['Python', 'LLM Evaluation', 'RLHF', 'SFT', 'API Design', 'A/B Testing'],
   },
