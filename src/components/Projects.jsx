@@ -23,7 +23,7 @@ const projects = [
     ],
     tech: ['React 18', 'Node.js', 'Express', 'MongoDB', 'Socket.io', 'JWT', 'Docker', 'AES-256'],
     github: 'https://github.com/piyushkumar0707/MediQueue',
-    live: 'https://medi-queue-ten.vercel.app/login',
+    live: 'https://medi-queue-ten.vercel.app/',
   },
   {
     id: 'travira',
