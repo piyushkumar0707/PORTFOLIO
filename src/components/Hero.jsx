@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 
-const RESUME_URL = 'https://raw.githubusercontent.com/piyushkumar0707/PORTFOLIO-NEW/main/Piyush_Kumar_Singh_Resume.pdf';
+const RESUME_URL = 'https://raw.githubusercontent.com/piyushkumar0707/PORTFOLIO/main/Piyush_Kumar_Singh_Resume.pdf';
 
 const SCRIPT = [
   { type: 'cmd',     text: 'whoami' },
