@@ -45,7 +45,7 @@ Full-stack tourism safety platform with AI-driven safety scoring, GPS tracking, 
 - Features: Multi-role system (Admin, Officer, Tourist) with geo-fencing & emergency alerts
 - Tech Stack: React, Node.js, Express, Python FastAPI, MongoDB, WebSocket, Blockchain/Hardhat, Android Kotlin
 - GitHub: https://github.com/piyushkumar0707/sih-dashboard-test-1
-- Live demo: https://travira-frontend.onrender.com/
+- Live demo: https://travira-iota.vercel.app/
 
 ### 3. SikshaLink (Modern Learning Management System)
 Next-generation LMS connecting students and teachers with live virtual classes, assignments, attendance tracking, and a secure payment gateway.

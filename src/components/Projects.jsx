@@ -49,7 +49,7 @@ const projects = [
     ],
     tech: ['React', 'Node.js', 'Express', 'Python FastAPI', 'MongoDB', 'WebSocket', 'Blockchain', 'Android (Kotlin)'],
     github: 'https://github.com/piyushkumar0707/sih-dashboard-test-1',
-    live: 'https://sih-dashboard-test-1.vercel.app/system-health',
+    live: 'https://travira-iota.vercel.app/',
   },
   {
     id: 'tutorai',
